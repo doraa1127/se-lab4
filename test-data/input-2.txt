@@ -1,0 +1,6 @@
+# 2. teszt: Váltás mindkét irányban, egyszerre egy torpedót lő ki SINGLE parancs használatakor
+GT4500,2,0.0,1,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# 5. teszt: ALL parancs hatására mindekttő tárolóból lő
+GT4500,1,0.0,1,0.0
+TORPEDO,ALL
+TORPEDO,ALL

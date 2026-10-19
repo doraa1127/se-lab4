@@ -1,0 +1,2 @@
+SUCCESS  # A GT4500 inicializálása sikeres
+FAIL  # A(z) 1. tüzelés eredménye
