@@ -1,0 +1,5 @@
+SUCCESS  # A GT4500 inicializálása sikeres
+SUCCESS  # A(z) 1. tüzelés eredménye
+SUCCESS  # A(z) 2. tüzelés eredménye
+SUCCESS  # A(z) 3. tüzelés eredménye
+FAIL  # A(z) 4. tüzelés eredménye

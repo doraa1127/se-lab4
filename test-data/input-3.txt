@@ -1,0 +1,4 @@
+# 3. teszt: SINGLE módban először az elsődleges tároló tüzel, majd a tárolót vált, meghibásodáskor nincs újra próbálkozás a másik tárolóval
+GT4500,2,0.0,1,1.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

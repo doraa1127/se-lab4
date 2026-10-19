@@ -1,0 +1,4 @@
+# 4. teszt: Ha a soron következő tároló üres, akkor a másik tárolóból próbál tüzelni
+GT4500,0,0.0,2,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

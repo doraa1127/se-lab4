@@ -1,0 +1,3 @@
+# 6. teszt: ALL parancs hatására lő az egyik tárolóból, ha a másik hibás
+GT4500,1,0.0,1,1.0
+TORPEDO,ALL

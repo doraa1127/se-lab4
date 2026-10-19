@@ -1,0 +1,3 @@
+# ALL módban a másodlagos tároló sikeresen tüzel az elsődleges meghibásodása mellett
+GT4500,1,1.0,1,0.0
+TORPEDO,ALL
